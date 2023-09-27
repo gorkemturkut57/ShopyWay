@@ -1,0 +1,11 @@
+.text-purple {
+  color: #6610f2;
+}
+
+.bg-purple {
+  background-color: #6610f2;
+}
+
+@media (min-width: 768px) {
+  
+}
